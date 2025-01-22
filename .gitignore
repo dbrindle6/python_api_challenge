@@ -1,0 +1,8 @@
+# Ignore API Keys
+WeatherPy/api_keys.py
+
+#Ignore Jupyter Notebook checkpoints
+_pycache_/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
